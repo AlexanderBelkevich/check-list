@@ -1,1 +1,1 @@
-# check-list
+# Файл для внутреннего style guide компании
